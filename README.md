@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 开发步骤
+1. 连接合约（web3、truffle-contract）
+2. 执行一下合约内部函数
+3. 添加antd作为ui库
+4. 完成项目
+
 ## Available Scripts
 
 In the project directory, you can run:
